@@ -1,0 +1,10 @@
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\bin\Debug\Seyahat_Sefer.exe.config
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\bin\Debug\Seyahat_Sefer.exe
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\bin\Debug\Seyahat_Sefer.pdb
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\obj\Debug\Seyahat_Sefer.csproj.AssemblyReference.cache
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\obj\Debug\Seyahat_Sefer.Form1.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\obj\Debug\Seyahat_Sefer.Properties.Resources.resources
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\obj\Debug\Seyahat_Sefer.csproj.GenerateResource.cache
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\obj\Debug\Seyahat_Sefer.csproj.CoreCompileInputs.cache
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\obj\Debug\Seyahat_Sefer.exe
+C:\Users\imgoz\OneDrive\Masaüstü\yeni kurs projeleri\Seyahat_Sefer\Seyahat_Sefer\obj\Debug\Seyahat_Sefer.pdb
